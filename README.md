@@ -28,8 +28,8 @@ VAULT is a lightweight, terminal based utility built with Python. It automates D
 ## Installation
 
 ```bash
-git clone <https://github.com/kkorpy/vault.git>
-cd <vault>
+git clone https://github.com/kkorpy/vault.git
+cd vault
 python vault.py
 ```
 
