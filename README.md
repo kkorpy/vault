@@ -53,6 +53,8 @@ Go to dev tools ctrl + shift + i then navigate to Storage -> Local Storage -> fi
 Go to dev tools ctrl + shift + i then navigate to Storage -> Cookies after, find "cf_clearance" then copy the value.
 ---
 
+## This is my first repo be nice pls 😭 
+i also used this for reference https://github.com/revere-group/discord-badge-spoofer
 <p align="center">
   <sub>VAULT · Built with Python</sub>
 </p>
