@@ -43,7 +43,14 @@ Authentication credentials are stored locally in `vault.json`. Never share this 
 
 unofficial third party project. use responsibly and at your own risk. This violates Discords Terms of Service.
 
-(this is my first repo pls be nice 😭)
+## Here is how to get your cookie and token (never share these with anyone)
+<img width="1633" height="855" alt="token" src="https://github.com/user-attachments/assets/bc844a7c-ed9e-4c24-af83-d20f01b2600c" />
+
+Go to dev tools ctrl + shift + i then navigate to Storage -> Local Storage -> filter "token" make sure you have the thing in the red box on.
+
+<img width="1619" height="586" alt="cf_clearance" src="https://github.com/user-attachments/assets/70571149-7132-4ea5-9ae4-2108dbd4f442" />
+
+Go to dev tools ctrl + shift + i then navigate to Storage -> Cookies after, find "cf_clearance" then copy the value.
 ---
 
 <p align="center">
