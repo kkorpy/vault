@@ -51,7 +51,9 @@ Go to dev tools ctrl + shift + i then navigate to Storage -> Local Storage -> fi
 <img width="1619" height="586" alt="cf_clearance" src="https://github.com/user-attachments/assets/70571149-7132-4ea5-9ae4-2108dbd4f442" />
 
 Go to dev tools ctrl + shift + i then navigate to Storage -> Cookies after, find "cf_clearance" then copy the value.
-Discord takes 1-48 hours to register the hours/games
+
+## NOTE!!!
+Discord does take 1-48 hours to register the hours/games
 
 ## This is my first repo be nice pls 😭 
 i also used this for reference https://github.com/revere-group/discord-badge-spoofer
