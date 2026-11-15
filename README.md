@@ -1,9 +1,9 @@
 # VAULT
 
 <p align="center">
-  <strong>Discord Game Activity Utility</strong>
+  <strong>Discord game/hour spoofer</strong>
   <br />
-  A streamlined Python application for managing simulated game activity sessions.
+  
   <br /><br />
   <img src="https://img.shields.io/badge/Python-3.10%2B-7B68EE?style=flat-square" />
   <img src="https://img.shields.io/badge/Platform-Windows-7B68EE?style=flat-square" />
@@ -14,11 +14,11 @@
 
 ## Overview
 
-VAULT is a lightweight, terminal-based utility built with Python. It automates Discord game activity event submission through an interactive interface.
+VAULT is a lightweight, terminal based utility built with Python. It automates Discord game activity event submission through the terminal.
 
 ## Features
 
-- **Game Discovery** — Retrieves Discord's detectable game database.
+- **Game Discovery** — Retrieves Discords detectable game database.
 - **Batch Processing** — Processes game activity events in batches.
 - **Session Management** — Configurable activity durations.
 - **Authentication** — Token and cookie-based authentication.
@@ -41,8 +41,9 @@ Authentication credentials are stored locally in `vault.json`. Never share this 
 
 ## Disclaimer
 
-Unofficial third-party project. Use responsibly and at your own risk. Simulated activity may violate Discord's Terms of Service.
+unofficial third party project. use responsibly and at your own risk. This violates Discords Terms of Service.
 
+(this is my first repo pls be nice 😭)
 ---
 
 <p align="center">
